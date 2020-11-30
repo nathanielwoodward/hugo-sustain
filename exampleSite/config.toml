@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "/"
 languageCode = "en-US"
 title = "Chris Turner"
 # Enable comments by entering your Disqus shortname
@@ -24,6 +24,7 @@ theme = "hugo-sustain"
   Email         = "email@example.com"
   Twitter       = "username"
   LinkedIn      = "username"
+  Instagram     = "username"
   Stackoverflow = "username"
   Medium        = "username"
   Telegram      = "username"
