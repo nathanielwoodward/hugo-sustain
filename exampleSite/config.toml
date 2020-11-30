@@ -25,9 +25,9 @@ theme = "hugo-sustain"
   Twitter       = "username"
   LinkedIn      = "username"
   Instagram     = "username"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
+#  Stackoverflow = "username"
+#  Medium        = "username"
+#  Telegram      = "username"
 
 ## Main Menu
 [[menu.main]]
