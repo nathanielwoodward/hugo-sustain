@@ -1,4 +1,3 @@
-![Sustain - Logo][logo]
 
 ## Table of Contents
 
