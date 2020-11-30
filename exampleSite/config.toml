@@ -8,7 +8,7 @@ googleAnalytics = ""
 theme = "hugo-sustain"
 
 [permalinks]
-  post = "/:year/:month/:day/:slug"
+  post = "/post/:year/:month/:day/:slug"
 
 [params]
   avatar = "profile.png"
@@ -34,7 +34,7 @@ theme = "hugo-sustain"
   name = "blog"
   weight = 100
   identifier = "blog"
-  url = "/blog/"
+  url = "/post/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
